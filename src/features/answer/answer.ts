@@ -1,4 +1,4 @@
-import { UUID, uuid } from "../utils/uuid"
+import { uuid, type UUID } from "../utils/uuid"
 
 export interface AnswerParam {
   text: string,
